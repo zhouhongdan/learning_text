@@ -1,3 +1,5 @@
 http://www.cnplugins.com/zhuanti/12web.html //十二款Web开发必备的Chrome插件
 
 https://segmentfault.com/a/1190000021576567?utm_source=tag-newest //webpack 面试题
+
+https://konklone.io/json/ //json转Excel 好用插件
